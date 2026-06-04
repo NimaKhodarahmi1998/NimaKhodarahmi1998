@@ -2,6 +2,8 @@
 
 iOS developer and designer in Naples. I went through the Apple Developer Academy. Before that I taught English and did a fair amount of writing, which is probably why I fuss over how an app reads and feels, not just whether it works.
 
+I recently co-founded **Cow Workers Studio**, a small indie game studio where I do both the code and the art. It's early days, nothing out yet.
+
 These days it's mostly Swift and SwiftUI. I draw and illustrate everything by hand in **Procreate**, and design in Figma and the Adobe apps.
 
 A few things I've made:
